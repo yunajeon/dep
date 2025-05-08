@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
       - name: con-front
-        image: 318486129689.dkr.ecr.ap-northeast-2.amazonaws.com/frontend:2
+        image: 318486129689.dkr.ecr.ap-northeast-2.amazonaws.com/frontend:3
