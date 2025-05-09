@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
       - name: con-front
-        image: uuna902/spring:12
+        image: uuna902/spring:13
